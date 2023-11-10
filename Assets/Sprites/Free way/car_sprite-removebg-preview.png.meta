@@ -1,0 +1,1088 @@
+fileFormatVersion: 2
+guid: 3b95511fce59a9f42ab3c635e4628ec0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5178303090647313534
+    second: car_sprite-removebg-preview_0
+  - first:
+      213: 6368159452672077070
+    second: car_sprite-removebg-preview_1
+  - first:
+      213: -8517978856120275640
+    second: car_sprite-removebg-preview_2
+  - first:
+      213: -339297162946187335
+    second: car_sprite-removebg-preview_3
+  - first:
+      213: -7509764600519188186
+    second: car_sprite-removebg-preview_4
+  - first:
+      213: 7350520575583101971
+    second: car_sprite-removebg-preview_5
+  - first:
+      213: -3745726314345602832
+    second: car_sprite-removebg-preview_6
+  - first:
+      213: -5018178317009464425
+    second: car_sprite-removebg-preview_7
+  - first:
+      213: 6324119025688434822
+    second: car_sprite-removebg-preview_8
+  - first:
+      213: 8540779622285889144
+    second: car_sprite-removebg-preview_9
+  - first:
+      213: -4864308759238004040
+    second: car_sprite-removebg-preview_10
+  - first:
+      213: 891711845971906868
+    second: car_sprite-removebg-preview_11
+  - first:
+      213: -7384049379476745827
+    second: car_sprite-removebg-preview_12
+  - first:
+      213: -668655862276948058
+    second: car_sprite-removebg-preview_13
+  - first:
+      213: -6147627237997251839
+    second: car_sprite-removebg-preview_14
+  - first:
+      213: -7071975412398448997
+    second: car_sprite-removebg-preview_15
+  - first:
+      213: -7126046611123064182
+    second: car_sprite-removebg-preview_16
+  - first:
+      213: 8802240405093966918
+    second: car_sprite-removebg-preview_17
+  - first:
+      213: 4432127493927274729
+    second: car_sprite-removebg-preview_18
+  - first:
+      213: -4950796098031667847
+    second: car_sprite-removebg-preview_19
+  - first:
+      213: 2112021198380140083
+    second: car_sprite-removebg-preview_20
+  - first:
+      213: -3510011012377914220
+    second: car_sprite-removebg-preview_21
+  - first:
+      213: -5859230860253895992
+    second: car_sprite-removebg-preview_22
+  - first:
+      213: 4325046226772385145
+    second: car_sprite-removebg-preview_23
+  - first:
+      213: 5499306761301671506
+    second: car_sprite-removebg-preview_24
+  - first:
+      213: 5536674764904379964
+    second: car_sprite-removebg-preview_25
+  - first:
+      213: 7939620842733181634
+    second: car_sprite-removebg-preview_26
+  - first:
+      213: 3298981179285356249
+    second: car_sprite-removebg-preview_27
+  - first:
+      213: -2802160879774491839
+    second: car_sprite-removebg-preview_28
+  - first:
+      213: -2353646331294765867
+    second: car_sprite-removebg-preview_29
+  - first:
+      213: 8502458731225525149
+    second: car_sprite-removebg-preview_30
+  - first:
+      213: 3892858118536030214
+    second: car_sprite-removebg-preview_31
+  - first:
+      213: -877788981529091479
+    second: car_sprite-removebg-preview_32
+  - first:
+      213: -2984228284207126914
+    second: car_sprite-removebg-preview_33
+  - first:
+      213: -2899784705215780254
+    second: car_sprite-removebg-preview_34
+  - first:
+      213: -1912680232762996190
+    second: car_sprite-removebg-preview_35
+  - first:
+      213: -4032502548828556743
+    second: car_sprite-removebg-preview_36
+  - first:
+      213: -7980079207438225457
+    second: car_sprite-removebg-preview_37
+  - first:
+      213: -8345602590000394451
+    second: car_sprite-removebg-preview_38
+  - first:
+      213: -5515073951819601905
+    second: car_sprite-removebg-preview_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 496
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283d8ae56c8f228b0800000000000000
+      internalID: -5178303090647313534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 496
+        width: 93
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0da091484f306850800000000000000
+      internalID: 6368159452672077070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 503
+        width: 98
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84da9ac4c5f0ac980800000000000000
+      internalID: -8517978856120275640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 497
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf6b4927039a4bf0800000000000000
+      internalID: -339297162946187335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 496
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621204f52e4f7c790800000000000000
+      internalID: -7509764600519188186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 426
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314a4ddc48b420660800000000000000
+      internalID: 7350520575583101971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 426
+        width: 93
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0e89743c1840cc0800000000000000
+      internalID: -3745726314345602832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 433
+        width: 98
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793551b7869db5ab0800000000000000
+      internalID: -5018178317009464425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 426
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688d27b4fb8c3c750800000000000000
+      internalID: 6324119025688434822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 426
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ece33c0d1f68670800000000000000
+      internalID: 8540779622285889144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 356
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b23cc7a4f08e7cb0800000000000000
+      internalID: -4864308759238004040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 356
+        width: 93
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431d92d033fff5c00800000000000000
+      internalID: 891711845971906868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 366
+        width: 98
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9158543636968990800000000000000
+      internalID: -7384049379476745827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 358
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6affff3390578b6f0800000000000000
+      internalID: -668655862276948058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 357
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10378ab399d3faaa0800000000000000
+      internalID: -6147627237997251839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 286
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e91b3d4db4bdd90800000000000000
+      internalID: -7071975412398448997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 286
+        width: 93
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a823223dc523b1d90800000000000000
+      internalID: -7126046611123064182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 296
+        width: 98
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644673d1307d72a70800000000000000
+      internalID: 8802240405093966918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 288
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e807ca2974128d30800000000000000
+      internalID: 4432127493927274729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 287
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975be65ed2d3b4bb0800000000000000
+      internalID: -4950796098031667847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 216
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3360b8707186f4d10800000000000000
+      internalID: 2112021198380140083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 216
+        width: 93
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4945181c49fe94fc0800000000000000
+      internalID: -3510011012377914220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 226
+        width: 98
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c26f8d7394dfaea0800000000000000
+      internalID: -5859230860253895992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 216
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d59efc0a6a50c30800000000000000
+      internalID: 4325046226772385145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 217
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e3a42ec56715c40800000000000000
+      internalID: 5499306761301671506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 146
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36bef63d5836dc40800000000000000
+      internalID: 5536674764904379964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 146
+        width: 93
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca166e27133f2e60800000000000000
+      internalID: 7939620842733181634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 155
+        width: 98
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9deb00067e558cd20800000000000000
+      internalID: 3298981179285356249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 146
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b9b8db689bc19d0800000000000000
+      internalID: -2802160879774491839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 146
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc2640c12b265fd0800000000000000
+      internalID: -2353646331294765867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 76
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bad180b2dcef570800000000000000
+      internalID: 8502458731225525149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 76
+        width: 93
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608e55465d5360630800000000000000
+      internalID: 3892858118536030214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 86
+        width: 98
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962e430729771d3f0800000000000000
+      internalID: -877788981529091479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 76
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e762927cf24e596d0800000000000000
+      internalID: -2984228284207126914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 77
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26aa080ac25e1c7d0800000000000000
+      internalID: -2899784705215780254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a004d467bc475e0800000000000000
+      internalID: -1912680232762996190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 6
+        width: 93
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93277350c4ca908c0800000000000000
+      internalID: -4032502548828556743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 16
+        width: 98
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfe929bd30114190800000000000000
+      internalID: -7980079207438225457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 8
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f427a49a67e2c80800000000000000
+      internalID: -8345602590000394451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_sprite-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 7
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0868cff5758673b0800000000000000
+      internalID: -5515073951819601905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
