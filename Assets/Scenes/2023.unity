@@ -317,10 +317,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ax: 0
   ay: -10
-  vx: 0
+  vx: 1.02
   vy: 30
   A: 0
-  w: 0
+  w: 59.1
   t: 0
   fi: 0
 --- !u!212 &1128121217
@@ -382,7 +382,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1128121215}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.5, y: 0, z: 0}
+  m_LocalPosition: {x: -7.4, y: 1.19, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
