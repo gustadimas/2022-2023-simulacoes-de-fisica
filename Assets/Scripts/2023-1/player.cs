@@ -17,14 +17,14 @@ public class player : MonoBehaviour
     public Text ponto_mostrado;
     
     // Start is called before the first frame update, anta verde, roxa e amarela kkkkkk
-   void Start()
-   {
-    velocidade = 5.33f;
-    impulso = 122;
-    valor = 1;
-    rg = grana.GetComponent<Rigidbody2D>();
-    rg.gravityScale = 0.4f;
-    timer = 0;
+    void Start()
+    {
+        velocidade = 5.33f;
+        impulso = 122;
+        valor = 1;
+        rg = grana.GetComponent<Rigidbody2D>();
+        rg.gravityScale = 0.4f;
+        timer = 0;
     }
 
     // Update is called once per frame, caneta azuuuul

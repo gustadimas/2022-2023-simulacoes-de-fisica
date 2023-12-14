@@ -48,7 +48,7 @@ TextureImporter:
       213: -5010621292067999124
     second: sprite_chiken-removebg-preview_14
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -68,6 +68,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -99,10 +101,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -142,6 +148,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 1024
     resizeAlgorithm: 0
     textureFormat: -1
@@ -480,6 +498,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      sprite_chiken-removebg-preview_12: 665263096559026679
+      sprite_chiken-removebg-preview_14: -5010621292067999124
+      sprite_chiken-removebg-preview_1: -9185183479986503291
+      sprite_chiken-removebg-preview_7: -2081908214643091746
+      sprite_chiken-removebg-preview_0: 6322415690242994959
+      sprite_chiken-removebg-preview_2: 1558390574398791578
+      sprite_chiken-removebg-preview_8: -8339250057290075878
+      sprite_chiken-removebg-preview_4: 1645225816560205704
+      sprite_chiken-removebg-preview_9: -4149247224266926660
+      sprite_chiken-removebg-preview_11: -1004082331615199650
+      sprite_chiken-removebg-preview_13: 5224686773700034081
+      sprite_chiken-removebg-preview_3: -5422933968459954585
+      sprite_chiken-removebg-preview_10: -8579539018832360919
+      sprite_chiken-removebg-preview_5: 2084088986298385878
+      sprite_chiken-removebg-preview_6: -4093897285457405428
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

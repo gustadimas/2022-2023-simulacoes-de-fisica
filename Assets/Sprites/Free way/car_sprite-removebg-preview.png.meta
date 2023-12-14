@@ -123,7 +123,7 @@ TextureImporter:
       213: -5515073951819601905
     second: car_sprite-removebg-preview_39
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -143,6 +143,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -174,10 +176,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -217,6 +223,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1080,6 +1098,47 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      car_sprite-removebg-preview_15: -7071975412398448997
+      car_sprite-removebg-preview_26: 7939620842733181634
+      car_sprite-removebg-preview_39: -5515073951819601905
+      car_sprite-removebg-preview_34: -2899784705215780254
+      car_sprite-removebg-preview_23: 4325046226772385145
+      car_sprite-removebg-preview_2: -8517978856120275640
+      car_sprite-removebg-preview_28: -2802160879774491839
+      car_sprite-removebg-preview_3: -339297162946187335
+      car_sprite-removebg-preview_30: 8502458731225525149
+      car_sprite-removebg-preview_7: -5018178317009464425
+      car_sprite-removebg-preview_11: 891711845971906868
+      car_sprite-removebg-preview_18: 4432127493927274729
+      car_sprite-removebg-preview_4: -7509764600519188186
+      car_sprite-removebg-preview_10: -4864308759238004040
+      car_sprite-removebg-preview_20: 2112021198380140083
+      car_sprite-removebg-preview_25: 5536674764904379964
+      car_sprite-removebg-preview_32: -877788981529091479
+      car_sprite-removebg-preview_21: -3510011012377914220
+      car_sprite-removebg-preview_22: -5859230860253895992
+      car_sprite-removebg-preview_13: -668655862276948058
+      car_sprite-removebg-preview_0: -5178303090647313534
+      car_sprite-removebg-preview_29: -2353646331294765867
+      car_sprite-removebg-preview_1: 6368159452672077070
+      car_sprite-removebg-preview_8: 6324119025688434822
+      car_sprite-removebg-preview_19: -4950796098031667847
+      car_sprite-removebg-preview_12: -7384049379476745827
+      car_sprite-removebg-preview_31: 3892858118536030214
+      car_sprite-removebg-preview_35: -1912680232762996190
+      car_sprite-removebg-preview_9: 8540779622285889144
+      car_sprite-removebg-preview_14: -6147627237997251839
+      car_sprite-removebg-preview_6: -3745726314345602832
+      car_sprite-removebg-preview_37: -7980079207438225457
+      car_sprite-removebg-preview_27: 3298981179285356249
+      car_sprite-removebg-preview_36: -4032502548828556743
+      car_sprite-removebg-preview_17: 8802240405093966918
+      car_sprite-removebg-preview_38: -8345602590000394451
+      car_sprite-removebg-preview_5: 7350520575583101971
+      car_sprite-removebg-preview_24: 5499306761301671506
+      car_sprite-removebg-preview_33: -2984228284207126914
+      car_sprite-removebg-preview_16: -7126046611123064182
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Player232 : MonoBehaviour
 {
@@ -52,11 +53,11 @@ public class Player232 : MonoBehaviour
 
         if ((sinalx != 0 || sinaly != 0) && (!lancar))
         {
-                x = sinalx * v0x * Time.deltaTime;
-                y = sinaly * v0y * Time.deltaTime;
-                //transform.position = transform.position + new Vector3 (x, y, 0f);
-                transform.Translate(x, 0f, 0f, Space.World);
-                transform.eulerAngles += new Vector3(0f, 0f, y);
+            x = sinalx * v0x * Time.deltaTime;
+            y = sinaly * v0y * Time.deltaTime;
+            //transform.position = transform.position + new Vector3 (x, y, 0f);
+            transform.Translate(x, 0f, 0f, Space.World);
+            transform.eulerAngles += new Vector3(0f, 0f, y);
             x0 = transform.position.x;
             y0 = transform.position.y;
             t = 0f;
@@ -64,8 +65,15 @@ public class Player232 : MonoBehaviour
         if (!lancar && Input.GetKeyDown(KeyCode.Space))
         {
             v += 2;
-            if (v > 50f) { v = 2; }
+            
+            if (v > 50f)
+            {
+                v = 2;
+            }
         }
+
+        if (Input.GetKeyDown(KeyCode.R)) SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+
         if (Input.GetKeyDown(KeyCode.Return))
         {     
             lancar = true;
@@ -80,6 +88,7 @@ public class Player232 : MonoBehaviour
             x = x0 + v0x * t;
             y = y0 + v0y * t - 5 * t * t;
             transform.position = new Vector3(x, y, 0f);
+           
             if (y < -4)
             {
                 lancar = false;
